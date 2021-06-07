@@ -1,4 +1,4 @@
 {
-  "name": "expo-location",
+  "name": "expo-location-forked",
   "platforms": ["ios", "android"]
 }
